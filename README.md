@@ -143,11 +143,11 @@ A strong public portfolio repository normally includes the RTL, testbench, clean
 
 ## Team
 
+- **Aditya Mittal**
 - **Jatin Mehlla**
 - **Rudransh Chakraborty**
-- **Aditya Mittal**
 
-**Project Mentor:** Kunwar Singh
+**Project Mentor:** Dr.Kunwar Singh
 
 ## Disclaimer
 
